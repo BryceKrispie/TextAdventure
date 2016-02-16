@@ -18,7 +18,7 @@ class Character():
 		print '=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\nYour actions are... [status, attack, help, travel]\n=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-='
 		pass
 
-
+#Hi everyone
 
 
 
